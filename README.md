@@ -1,4 +1,4 @@
-<h1 align="center">##Olá, me chamo Ingrid Batista 👩🏻‍💻</h1>
+<h1 align="center">Olá, me chamo Ingrid Batista 👩🏻‍💻</h1>
 <h2 align="left">Desenvolvedora Full Stack e Docente apaixonada por tecnologia.</h2>
 
 
