@@ -168,10 +168,9 @@
             <td style="border: 1px solid #ddd;
             padding: 12px;
             text-align: center;">
-                <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" alt="react" width="35">
-                <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="react" width="35">
-                <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png" alt="react" width="35">
-
+                <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" alt="react" width="35"/>
+                <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="react" width="35"/>
+                <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png" alt="react" width="35"/>
             </td>
             <td style="border: 1px solid #ddd;
             padding: 12px;
@@ -194,10 +193,9 @@
             <td style="border: 1px solid #ddd;
             padding: 12px;
             text-align: center;">
-                <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" alt="react" width="35">
-                <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="react" width="35">
-                <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png" alt="react" width="35">
-
+                <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" alt="react" width="35"/>
+                <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="react" width="35"/>
+                <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png" alt="react" width="35"/>
             </td>
             <td style="border: 1px solid #ddd;
             padding: 12px;
