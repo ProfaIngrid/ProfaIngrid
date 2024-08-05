@@ -95,11 +95,10 @@
             <td style="border: 1px solid #ddd;
             padding: 12px;
             text-align: center;">
-                <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" alt="react" width="35">
-                <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png" alt="react" width="35">
-                <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="react" width="35">
-                <img src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql-thumbnail.png" alt="react" width="35">
-
+                <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" alt="react" width="35"/>
+                <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png" alt="react" width="35"/>
+                <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="react" width="35"/>
+                <img src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql-thumbnail.png" alt="react" width="35"/>
             </td>
             <td style="border: 1px solid #ddd;
             padding: 12px;
