@@ -30,18 +30,14 @@
 📍 <a href="https://github.com/seu_usuario/otimizacao_postgresql" target="_blank">T112: API de filmes</a> 📍
 </p> -->
 <table style="
-    width: 50%;
+    width: 100%;
     border-collapse: collapse;
     margin: 30px 0;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);"
 >
     <thead>
         <tr>
-            <th style="border: 1px solid #ddd;
-            padding: 12px;
-            text-align: center;   
-            background-color: #f66b91;
-            color: white;">Turma</th>
+            <th style="border: 1px solid #ddd; padding: 12px; text-align: center;  background-color: #f66b91; color: white;">Turma</th>
             <th style="border: 1px solid #ddd;
             padding: 12px;
             text-align: center;   
@@ -103,18 +99,27 @@
 
 <br/>
 <h2 align="left" style="border-bottom: solid 1px #0000002b; padding-bottom: 10px;">⚙️ Linguagens e Ferramentas:</h2>
-<div>
-    <a href="https://nodejs.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
+<div style="display: flex; justify-content: center; width: 100%; justify-content: space-around;">
+    <a href="https://www.w3.org/TR/html5/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="60" height="60"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="60" height="60"/>
     </a>
     <a href="https://reactjs.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/>
+    </a>
+    <a href="https://www.javascript.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="60" height="60"/>
+    </a>
+    <a href="https://nodejs.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
     </a>
     <a href="https://expressjs.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/>
-    </a>
-    <a href="https://www.postgresql.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/>
     </a>
     <a href="https://www.java.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="60" height="60"/>
@@ -122,8 +127,8 @@
     <a href="https://www.python.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/>
     </a>
-    <a href="https://www.typescriptlang.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/>
+    <a href="https://www.postgresql.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/>
     </a>
     <a href="https://www.mysql.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
@@ -131,6 +136,7 @@
     <a href="https://www.mongodb.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
     </a>
+    
 </div>
 <br/>
 <br/>
