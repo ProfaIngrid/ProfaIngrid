@@ -1,37 +1,4 @@
-<body>
-    <style>
-        body {
-            font-family: math, sans-serif
-        }
-        table {
-            width: 50%;
-            border-collapse: collapse;
-            margin: 30px 0;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-        }
-        th, td {
-            border: 1px solid #ddd;
-            padding: 12px;
-            text-align: center;
-        }
-        th {
-            background-color: #f66b91;
-            color: white;
-        }
-        tr:nth-child(even) {
-            background-color: #f9f9f9;
-        }
-        tr:hover {
-            background-color: #f1f1f1;
-        }
-        a {
-            color: #f66b91;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
+<body style="font-family: math, sans-serif">
 <h1 align="center">Olá, me chamo Ingrid Batista 👩🏻‍💻</h1>
 
 <p style="font-size: 18px; line-height: 40px;" align="left"><b>Dev Full Stack e Docente apaixonada por tecnologia💕</b></p>
@@ -63,29 +30,75 @@
 <p align="left">
 📍 <a href="https://github.com/seu_usuario/otimizacao_postgresql" target="_blank">T112: API de filmes</a> 📍
 </p> -->
-<table style="width: 100%; margin: 20px 0;">
+<table style="
+    width: 50%;
+    border-collapse: collapse;
+    margin: 30px 0;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);"
+>
     <thead>
         <tr>
-            <th>Turma</th>
-            <th>Projeto</th>
-            <th>Stacks</th>
-            <th>Repositório</th>
+            <th style="border: 1px solid #ddd;
+            padding: 12px;
+            text-align: center;   
+            background-color: #f66b91;
+            color: white;">Turma</th>
+            <th style="border: 1px solid #ddd;
+            padding: 12px;
+            text-align: center;   
+            background-color: #f66b91;
+            color: white;">Projeto</th>
+            <th style="border: 1px solid #ddd;
+            padding: 12px;
+            text-align: center;   
+            background-color: #f66b91;
+            color: white;">Stacks</th>
+            <th style="border: 1px solid #ddd;
+            padding: 12px;
+            text-align: center;   
+            background-color: #f66b91;
+            color: white;" >Repositório</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>TI 112</td>
-            <td>Página de filmes</td>
-            <td>REACTJS</td>
-            <td><a href="https://github.com/ProfaIngrid/pagina-filmes" target="_blank">pagina-filmes</a></td>
+            <td style="border: 1px solid #ddd;
+            padding: 12px;
+            text-align: center;">TI 112</td>
+            <td style="border: 1px solid #ddd;
+            padding: 12px;
+            text-align: center;">Página de filmes</td>
+            <td style="border: 1px solid #ddd;
+            padding: 12px;
+            text-align: center;">REACTJS</td>
+            <td style="border: 1px solid #ddd;
+            padding: 12px;
+            text-align: center;"><a href="https://github.com/ProfaIngrid/pagina-filmes" target="_blank" style="color: #f66b91; text-decoration: none;">pagina-filmes</a></td>
         </tr>
         <tr>
-            <td>TI 112</td>
-            <td>API de filmes</td>
-            <td>NodeJS, Express</td>
-            <td><a href="https://github.com/ProfaIngrid/api-filmes" target="_blank">api-filmes</a></td>
+            <td style="border: 1px solid #ddd;
+            padding: 12px;
+            text-align: center;">
+                TI 112
+            </td>
+            <td style="border: 1px solid #ddd;
+            padding: 12px;
+            text-align: center;">
+                API de filmes
+            </td>
+            <td style="border: 1px solid #ddd;
+            padding: 12px;
+            text-align: center;">
+                NodeJS, Express
+            </td>
+            <td style="border: 1px solid #ddd;
+            padding: 12px;
+            text-align: center;"><a 
+                href="https://github.com/ProfaIngrid/pagina-filmes" 
+            target="_blank" style="color: #f66b91; text-decoration: none;">
+                api-filmes
+            </a></td>
         </tr>
-        <!-- Adicione mais linhas conforme necessário -->
     </tbody>
 </table>
 
@@ -127,6 +140,7 @@
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProfaIngrid&layout=compact&langs_count=7&theme=dracula"/>
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ProfaIngrid&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
 
 ![Snake animation](https://github.com/ProfaIngrid/ProfaIngrid/blob/output/github-contribution-grid-snake.svg)
 
