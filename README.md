@@ -117,8 +117,8 @@
             <td style="border: 1px solid #ddd;
             padding: 12px;
             text-align: center;"><a 
-                href="@" target="_blank" style="color: #f66b91; text-decoration: none;">
-                #
+                href="https://github.com/ProfaIngrid/visualG-GTI2A" target="_blank" style="color: #f66b91; text-decoration: none;">
+                visualG-GTI2A
             </a></td>
         </tr>
         <tr>
@@ -141,8 +141,8 @@
             <td style="border: 1px solid #ddd;
             padding: 12px;
             text-align: center;"><a 
-                href="@" target="_blank" style="color: #f66b91; text-decoration: none;">
-                #
+                href="https://github.com/ProfaIngrid/logicaProgramacao-gti2a" target="_blank" style="color: #f66b91; text-decoration: none;">
+                logicaProgramacao-gti2a
             </a></td>
         </tr>
         <tr>
@@ -166,8 +166,8 @@
             <td style="border: 1px solid #ddd;
             padding: 12px;
             text-align: center;"><a 
-                href="https://github.com/ProfaIngrid/pagina-filmes" target="_blank" style="color: #f66b91; text-decoration: none;">
-                Projeto Calculadora
+                href="https://github.com/ProfaIngrid/projetoCalculadora-ads4A" target="_blank" style="color: #f66b91; text-decoration: none;">
+                projetoCalculadora-ads4A
             </a></td>
         </tr>
         <tr>
@@ -191,8 +191,8 @@
             <td style="border: 1px solid #ddd;
             padding: 12px;
             text-align: center;"><a 
-                href="https://github.com/ProfaIngrid/pagina-filmes" target="_blank" style="color: #f66b91; text-decoration: none;">
-                Projeto Calculadora
+                href="https://github.com/ProfaIngrid/projetoCalculadora-ads4B" target="_blank" style="color: #f66b91; text-decoration: none;">
+                projetoCalculadora-ads4B
             </a></td>
         </tr>
     </tbody>
