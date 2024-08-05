@@ -1,9 +1,9 @@
 <body style="font-family: math, sans-serif">
 <h1 align="center">Olá, me chamo Ingrid Batista 👩🏻‍💻</h1>
+<br/>
+<p style="font-size: 18px; line-height: 40px;" align="center"><b>Dev Full Stack e Docente apaixonada por tecnologia💕</b></p>
 
-<p style="font-size: 18px; line-height: 40px;" align="left"><b>Dev Full Stack e Docente apaixonada por tecnologia💕</b></p>
-
-
+<br/><br/>
 <h2 align="left" style="border-bottom: solid 1px #0000002b; padding-bottom: 10px">📑 Bio:</h2>
 <p align="left" style="font-size: 18px; line-height: 40px;">
 - 💻👩🏻‍🏫 Atualmente, trabalho como Dev Full Stack na 
