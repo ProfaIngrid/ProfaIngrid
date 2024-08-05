@@ -154,7 +154,7 @@
             <td style="border: 1px solid #ddd;
             padding: 12px;
             text-align: center;">
-              Projeto Calculadora
+              Conversorde de Moedas
             </td>
             <td style="border: 1px solid #ddd;
             padding: 12px;
@@ -166,8 +166,8 @@
             <td style="border: 1px solid #ddd;
             padding: 12px;
             text-align: center;"><a 
-                href="https://github.com/ProfaIngrid/projetoCalculadora-ads4A" target="_blank" style="color: #f66b91; text-decoration: none;">
-                projetoCalculadora-ads4A
+                href="https://github.com/ProfaIngrid/conversorMoedas-ads4A" target="_blank" style="color: #f66b91; text-decoration: none;">
+                conversorMoedas-ads4A
             </a></td>
         </tr>
         <tr>
@@ -179,7 +179,7 @@
             <td style="border: 1px solid #ddd;
             padding: 12px;
             text-align: center;">
-               Projeto Calculadora
+               Conversor de Medidas
             </td>
             <td style="border: 1px solid #ddd;
             padding: 12px;
@@ -191,8 +191,8 @@
             <td style="border: 1px solid #ddd;
             padding: 12px;
             text-align: center;"><a 
-                href="https://github.com/ProfaIngrid/projetoCalculadora-ads4B" target="_blank" style="color: #f66b91; text-decoration: none;">
-                projetoCalculadora-ads4B
+                href="https://github.com/ProfaIngrid/conversorMedidas-ads4B" target="_blank" style="color: #f66b91; text-decoration: none;">
+                conversorMedidas-ads4B
             </a></td>
         </tr>
     </tbody>
