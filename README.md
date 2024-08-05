@@ -1,8 +1,4 @@
-<!-- background-color: #282a36; color: #f0f0f0;  -->
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tabela de Projetos</title>
+<body>
     <style>
         body {
             font-family: math, sans-serif
@@ -36,8 +32,6 @@
             text-decoration: underline;
         }
     </style>
-</head>
-<body>
 <h1 align="center">Olá, me chamo Ingrid Batista 👩🏻‍💻</h1>
 
 <p style="font-size: 18px; line-height: 40px;" align="left"><b>Dev Full Stack e Docente apaixonada por tecnologia💕</b></p>
