@@ -1,5 +1,5 @@
-##Olá, me chamo Ingrid Batista 👩🏻‍💻
-Desenvolvedora Full Stack e Docente apaixonada por tecnologia.
+<h1 align="center">##Olá, me chamo Ingrid Batista 👩🏻‍💻</h1>
+<h5 align="left">Desenvolvedora Full Stack e Docente apaixonada por tecnologia.</h5>
 
 
 <p align="left">
@@ -11,12 +11,11 @@ Desenvolvedora Full Stack e Docente apaixonada por tecnologia.
 </p>
 
 <br/>
-## Contatos:
-<div>
+<h2 align="left">Meus Contatos: </h2>
+<p align="left">
 <a href="https://www.linkedin.com/in/ibconceicao/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg" alt="linkedin.com/in/ibconceicao/" height="30" width="120" /></a>
 <a href="mailto:ingrid.pacheco2015@gmail.com" target="_blank"><img align="center" src="https://cdn.freelogovectors.net/wp-content/uploads/2023/04/gmail-logo-freelogovectors.net_.png" alt="ingrid.pacheco2015@gmail.com" height="30" width="120" /></a>
-</div>
-
+</p>
 
 <h2 align="left">Ultimos projetos:</h2>
 <p align="left">
@@ -48,4 +47,4 @@ Desenvolvedora Full Stack e Docente apaixonada por tecnologia.
 <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </a>
-     
+
