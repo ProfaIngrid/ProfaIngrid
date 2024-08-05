@@ -1,5 +1,5 @@
 <h1 align="center">Olá, me chamo Ingrid Batista 👩🏻‍💻</h1>
-<br/><br/>
+<br/>
 <h2 align="left">Desenvolvedora Full Stack e Docente apaixonada por tecnologia.</h2>
 
 
