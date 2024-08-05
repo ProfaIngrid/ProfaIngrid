@@ -4,10 +4,10 @@
 <p style="font-size: 18px; line-height: 40px;" align="center"><b>Dev Full Stack e Docente apaixonada por tecnologia💕</b></p>
 
 <h2 align="left" style="border-bottom: solid 1px #0000002b; padding-bottom: 10px">📑 Bio:</h2>
-<p align="left" style="font-size: 18px; line-height: 40px;">
-- 💻👩🏻‍🏫 Atualmente, trabalho como Dev Full Stack na 
-    <a href="https://www.gedanken.com.br/produtos/g-certifica/" target="_blank"><img src="https://lh3.googleusercontent.com/pw/AP1GczN0YkgpgErwYlmnvx8Iw8nEiiZzXBCtxrQ5qALnb1EXUJwNPIegQ65DIBIfzOtH0oqQ1DJRGUvFqPqCUXpwKOnLEqIE1nrRKG57KJDzDckzyn83Pdk4E0GPL3Z4pXWrr6vbxqStIv8y0yKj15dsR-wtpQ=w665-h150-s-no-gm?authuser=0" alt="nodejs" width="100" height="25"/></a>
-    e Docente no SENACSP e na Universidade Santo Amaro.
+<p align="left">
+- 💻👩🏻‍🏫 Sou docente no SENACSP e na Universidade Santo Amaro. Atuo ainda Dev Full Stack na 
+<a href="https://www.gedanken.com.br/produtos/g-certifica/" target="_blank">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczN0YkgpgErwYlmnvx8Iw8nEiiZzXBCtxrQ5qALnb1EXUJwNPIegQ65DIBIfzOtH0oqQ1DJRGUvFqPqCUXpwKOnLEqIE1nrRKG57KJDzDckzyn83Pdk4E0GPL3Z4pXWrr6vbxqStIv8y0yKj15dsR-wtpQ=w665-h150-s-no-gm?authuser=0" alt="nodejs" width="90" height="18" /></a>
 <br/>
 - 🚀 Stacks Tecnológicas: Node.js, React.js e PostgreSQL. Estou sempre explorando novas tecnologias e metodologias para aprimorar minhas habilidades e entregar soluções inovadoras.
 <br/>
@@ -59,16 +59,28 @@
         <tr>
             <td style="border: 1px solid #ddd;
             padding: 12px;
-            text-align: center;">TI 112</td>
+            text-align: center;">
+                TI 112
+            </td>
             <td style="border: 1px solid #ddd;
             padding: 12px;
-            text-align: center;">Página de filmes</td>
+            text-align: center;">
+                Página de filmes
+            </td>
             <td style="border: 1px solid #ddd;
             padding: 12px;
-            text-align: center;">REACTJS</td>
+            text-align: center;">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s" alt="react" width="35">
+                <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" alt="react" width="35">
+                <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="react" width="35">
+                <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png" alt="react" width="35">
+
+            </td>
             <td style="border: 1px solid #ddd;
             padding: 12px;
-            text-align: center;"><a href="https://github.com/ProfaIngrid/pagina-filmes" target="_blank" style="color: #f66b91; text-decoration: none;">pagina-filmes</a></td>
+            text-align: center;"><a href="https://github.com/ProfaIngrid/pagina-filmes" target="_blank" style="color: #f66b91; text-decoration: none;">
+                pagina-filmes
+            </a></td>
         </tr>
         <tr>
             <td style="border: 1px solid #ddd;
@@ -79,19 +91,121 @@
             <td style="border: 1px solid #ddd;
             padding: 12px;
             text-align: center;">
-                API de filmes
+               API de filmes
             </td>
             <td style="border: 1px solid #ddd;
             padding: 12px;
             text-align: center;">
-                NodeJS, Express
+                <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" alt="react" width="35">
+                <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png" alt="react" width="35">
+                <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="react" width="35">
+                <img src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql-thumbnail.png" alt="react" width="35">
+
             </td>
             <td style="border: 1px solid #ddd;
             padding: 12px;
             text-align: center;"><a 
-                href="https://github.com/ProfaIngrid/pagina-filmes" 
-            target="_blank" style="color: #f66b91; text-decoration: none;">
+                href="https://github.com/ProfaIngrid/pagina-filmes" target="_blank" style="color: #f66b91; text-decoration: none;">
                 api-filmes
+            </a></td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd;
+            padding: 12px;
+            text-align: center;">
+                GTI 2A
+            </td>
+            <td style="border: 1px solid #ddd;
+            padding: 12px;
+            text-align: center;">
+               VisualG
+            </td>
+            <td style="border: 1px solid #ddd;
+            padding: 12px;
+            text-align: center;">
+                <img src="https://yt3.googleusercontent.com/ytc/AIdro_l7Nj_WFsrWTSovoYJbaKSsCEBs216584Kx81lpviO5Pi0=s900-c-k-c0x00ffffff-no-rj" alt="react" width="35">
+            </td>
+            <td style="border: 1px solid #ddd;
+            padding: 12px;
+            text-align: center;"><a 
+                href="@" target="_blank" style="color: #f66b91; text-decoration: none;">
+                #
+            </a></td>
+        </tr>
+        <!-- <tr>
+            <td style="border: 1px solid #ddd;
+            padding: 12px;
+            text-align: center;">
+                GTI 2A
+            </td>
+            <td style="border: 1px solid #ddd;
+            padding: 12px;
+            text-align: center;">
+               Aulas de Lógica
+            </td>
+            <td style="border: 1px solid #ddd;
+            padding: 12px;
+            text-align: center;">
+                <img src="https://img.icons8.com/?size=512&id=lOqoeP2Zy02f&format=png" alt="react" width="40" >
+                <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-3521655-2945099.png?f=webp&w=256" alt="react" width="35">
+            </td>
+            <td style="border: 1px solid #ddd;
+            padding: 12px;
+            text-align: center;"><a 
+                href="@" target="_blank" style="color: #f66b91; text-decoration: none;">
+                #
+            </a></td>
+        </tr> -->
+        <tr>
+            <td style="border: 1px solid #ddd;
+            padding: 12px;
+            text-align: center;">
+                ADS4A
+            </td>
+            <td style="border: 1px solid #ddd;
+            padding: 12px;
+            text-align: center;">
+              Projeto Calculadora
+            </td>
+            <td style="border: 1px solid #ddd;
+            padding: 12px;
+            text-align: center;">
+                <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" alt="react" width="35">
+                <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="react" width="35">
+                <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png" alt="react" width="35">
+
+            </td>
+            <td style="border: 1px solid #ddd;
+            padding: 12px;
+            text-align: center;"><a 
+                href="https://github.com/ProfaIngrid/pagina-filmes" target="_blank" style="color: #f66b91; text-decoration: none;">
+                Projeto Calculadora
+            </a></td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd;
+            padding: 12px;
+            text-align: center;">
+                ADS4B
+            </td>
+            <td style="border: 1px solid #ddd;
+            padding: 12px;
+            text-align: center;">
+               Projeto Calculadora
+            </td>
+            <td style="border: 1px solid #ddd;
+            padding: 12px;
+            text-align: center;">
+                <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" alt="react" width="35">
+                <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="react" width="35">
+                <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png" alt="react" width="35">
+
+            </td>
+            <td style="border: 1px solid #ddd;
+            padding: 12px;
+            text-align: center;"><a 
+                href="https://github.com/ProfaIngrid/pagina-filmes" target="_blank" style="color: #f66b91; text-decoration: none;">
+                Projeto Calculadora
             </a></td>
         </tr>
     </tbody>
@@ -145,9 +259,5 @@
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProfaIngrid&layout=compact&langs_count=7&theme=dracula"/>
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ProfaIngrid&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-
-![Snake animation](https://github.com/ProfaIngrid/ProfaIngrid/blob/output/github-contribution-grid-snake.svg)
-
 
 </body>
