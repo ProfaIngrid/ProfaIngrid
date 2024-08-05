@@ -1,4 +1,4 @@
-
+<body style="font-family: math, sans-serif">
 <h1 align="center">Olá, me chamo Ingrid Batista 👩🏻‍💻</h1>
 <br/>
 <p style="font-size: 18px; line-height: 40px;" align="center"><b>Dev Full Stack e Docente apaixonada por tecnologia💕</b></p>
@@ -131,7 +131,7 @@
                 #
             </a></td>
         </tr>
-        <!-- <tr>
+        <tr>
             <td style="border: 1px solid #ddd;
             padding: 12px;
             text-align: center;">
@@ -154,7 +154,7 @@
                 href="@" target="_blank" style="color: #f66b91; text-decoration: none;">
                 #
             </a></td>
-        </tr> -->
+        </tr>
         <tr>
             <td style="border: 1px solid #ddd;
             padding: 12px;
@@ -258,3 +258,5 @@
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProfaIngrid&layout=compact&langs_count=7&theme=dracula"/>
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ProfaIngrid&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+</body>
