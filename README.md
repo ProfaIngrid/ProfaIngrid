@@ -4,7 +4,7 @@
 <p style="font-size: 18px; line-height: 40px;" align="center"><b>Dev Full Stack e Docente apaixonada por tecnologia💕</b></p>
 <h2 align="left" style="border-bottom: solid 1px #0000002b; padding-bottom: 10px">📑 Bio:</h2>
 <p align="left">
-- 💻👩🏻‍🏫 Sou docente no SENACSP e na Universidade Santo Amaro. Atuo ainda Dev Full Stack na 
+- 💻👩🏻‍🏫 Sou docente no SENACSP e na Universidade Santo Amaro. Alem disso, sou Dev Full Stack na 
 <a href="https://www.gedanken.com.br/produtos/g-certifica/" target="_blank">
     <img src="https://lh3.googleusercontent.com/pw/AP1GczN0YkgpgErwYlmnvx8Iw8nEiiZzXBCtxrQ5qALnb1EXUJwNPIegQ65DIBIfzOtH0oqQ1DJRGUvFqPqCUXpwKOnLEqIE1nrRKG57KJDzDckzyn83Pdk4E0GPL3Z4pXWrr6vbxqStIv8y0yKj15dsR-wtpQ=w665-h150-s-no-gm?authuser=0" alt="nodejs" width="90" height="18" /></a>
 <br/>
