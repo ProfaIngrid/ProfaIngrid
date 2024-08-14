@@ -94,7 +94,7 @@
             <td style="border: 1px solid #ddd;
             padding: 12px;
             text-align: center;"><a 
-                href="https://github.com/ProfaIngrid/pagina-filmes" target="_blank" style="color: #f66b91; text-decoration: none;">
+                href="https://github.com/ProfaIngrid/api-filmes" target="_blank" style="color: #f66b91; text-decoration: none;">
                 api-filmes
             </a></td>
         </tr>
